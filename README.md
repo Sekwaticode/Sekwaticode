@@ -10,6 +10,7 @@ Embarking on my journey as a full stack web developer has been an exhilarating a
 * 🧠  I'm learning Express.js
 * 🤝  I'm open to collaborating on Beginner level javascript programme
 * ⚡  I am also interested in developing basic python skills for back-end development
+<img src="https://i.pinimg.com/564x/57/be/f9/57bef9ad55ace5f7a9b7b8f43e302900.jpg" alt="Description of the image">
 
 ### Skills
 
