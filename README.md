@@ -8,7 +8,7 @@ Aspiring Full Stack Web Developer
 Embarking on my journey as a full stack web developer has been an exhilarating adventure. I've delved into the intricacies of JavaScript, HTML, and CSS for crafting engaging user interfaces. Handling databases using PostgreSQL, orchestrating with Docker, and mastering server-side scripting with Node.js has brought depth to my projects. I find joy in solving coding puzzles, and each project is a stepping stone in refining my skills. Excited for the ongoing exploration and the innovations ahead!
 
 * 🌍  I'm based in South Africa
-* 🧠  I'm learning Express.js
+* 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on Beginner level javascript programme
 * ⚡  I am also interested in developing basic python skills for back-end development
 <img src="https://i.pinimg.com/564x/57/be/f9/57bef9ad55ace5f7a9b7b8f43e302900.jpg" alt="Description of the image">
