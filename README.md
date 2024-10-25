@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)](https://rishavchanda.io)
 
 Hi 👋 My name is Lebogang
 =========================
