@@ -1,4 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)](https://rishavchanda.io)
+
 Hi 👋 My name is Lebogang
 =========================
 
@@ -10,7 +11,7 @@ Embarking on my journey as a full stack web developer has been an exhilarating a
 * 🌍  I'm based in South Africa
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on Beginner level javascript programme
-* ⚡  I am also interested in developing basic python skills for back-end development
+* ⚡  I am also interested in developing basic java skills for back-end development
 <img src="https://i.pinimg.com/564x/57/be/f9/57bef9ad55ace5f7a9b7b8f43e302900.jpg" alt="Description of the image">
 
 ### Skills
